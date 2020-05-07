@@ -1,0 +1,9 @@
+.search-section {
+  padding: .5rem;
+}
+
+.searchbar {
+  padding: .75rem;
+  border-color: green;
+  background: lightblue;
+}

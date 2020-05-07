@@ -1,0 +1,22 @@
+.card {
+  display: inline-block;
+  background-color: lightgreen;
+  border-radius: .5rem;
+  border-width: .25rem;
+  box-shadow: 4px 4px 8px 0px rgba( 0, 0, 0, 0.2);
+  padding: .5rem;
+  margin: .4rem;
+  text-align: center;
+}
+
+.grow {
+  transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.05);
+}
+
+h2, p {
+  margin-left: .3rem
+}
